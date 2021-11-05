@@ -9,6 +9,19 @@ The human mind has a limited attention span that often impedes study sessions if
 - Focus and break times marked by a chime
 - Start/pause and stop buttons
 
+## Screenshots
+
+![default screen](https://github.com/melwong08/pomodoro-timer/blob/main/images/default.PNG)
+
+### Focus Session
+![focus](https://github.com/melwong08/pomodoro-timer/blob/main/images/focus.PNG)
+
+### Break Session
+![break](https://github.com/melwong08/pomodoro-timer/blob/main/images/break.PNG)
+
+### Paused
+![paused](https://github.com/melwong08/pomodoro-timer/blob/main/images/paused.PNG)
+
 ## Built with: 
 - React.js 
 
