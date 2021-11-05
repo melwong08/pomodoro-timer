@@ -23,7 +23,9 @@ The human mind has a limited attention span that often impedes study sessions if
 ![paused](https://github.com/melwong08/pomodoro-timer/blob/main/images/paused.PNG)
 
 ## Built with: 
-- React.js 
+- React.js
+- JavaScript
+- HTML 
 
 ## Lessons Learned: 
 - Accessing React useState
