@@ -1,6 +1,6 @@
 # Pomodoro Timer
 
-The human mind has a limited attention span that often impedes study sessions if an individual cannot focus for long periods. Therefore, the pomodoro study method includes short periods of focus time with breaks in between to optimize an individual's productivity and keep them on task. This pomodoro timer allows an individual to utilize their time more wisely with 25 minutes of focus time and 5 minute breaks announced with a friendly chime. Students will no longer feel pressured to study for hours without making much progress, but will be able to focuse on each subject in turn and metabolize the information during breaks. 
+The human mind has a limited attention span that often impedes study sessions if an individual cannot focus for long periods. Therefore, the pomodoro study method includes short periods of focus time with breaks in between to optimize an individual's productivity and keep them on task. This pomodoro timer allows an individual to utilize their time more wisely with 25 minutes of focus time and 5 minute breaks announced with a friendly chime. Students will no longer feel pressured to study for hours without making much progress, but will be able to focus on each subject in turn and metabolize the information during breaks. 
 
 ## Features
 - Default focus time of 25 mins, break time of 5 mins
